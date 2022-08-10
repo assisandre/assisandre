@@ -1,5 +1,7 @@
 ### Olá! Eu sou o André Assis
 
+-Estou em busca de aprimorar meus conhecimentos em Programação!
+
 <div>
   <a href="https://github.com/assisandre">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
